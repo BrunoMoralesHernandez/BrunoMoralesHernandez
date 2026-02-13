@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Bruno 👋
 
-<!--
-**BrunoMoralesHernandez/BrunoMoralesHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+**Estudiante del grado en Ingeniería Informática de la ULL**
+**Ubicación:** Canarias, España
+**Intereses:** Desarrollo de software, aprendizaje de nuevas tecnologías, tratamiento de datos, sistemas operativos y servidores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Lenguajes y Herramientas
+
+Estas son las herramientas y lenguajes que he visto durante la carrera:
+
+* **Lenguajes:** C++, JavaScript
+* **Herramientas:** Git, VS Code, Linux
+
+---
+
+## Contacto
+
+* **Email:** morales.hernandez.28@ull.edu.es
